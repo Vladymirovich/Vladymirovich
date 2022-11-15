@@ -7,13 +7,9 @@
 
 - 🤝 I’m looking for help with **Node runner troubleshooting.**
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vladymirovich&hide=issues&show_icons=true&hide_border=true&count_private=true&theme=merko&locale=en" alt="vladymirovich" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=vladymirovich&hide=issues&show_icons=true&hide_border=true&count_private=true&theme=merko&locale=en" alt="vladymirovich" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vladymirovich&" alt="vladymirovich" /></p>
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladymirovich&repo=Vladymirovich)
-
-
 
 
 
