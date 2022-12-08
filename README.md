@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vladymirovich</h1>
-<h3 align="center">🌏 I am from Ukraine 🇺🇦 👀 I'm a passionate🥇, creative🎨 and perceptive🔭 . Interested in anything and everything that can be classified as technology💻 fascinates me. My interests and work range in Crypto World espacially Node Running. For Instagram and much more. I'm always open to new ideas and opportunities.</h3>
+<h3 align="center">🌏 I am from Ukraine🇺🇦 I'm well-organized, creative, and perceptive. Interested in anything that can be classified as technology💻 fascinates me. My interests and work range in Crypto World especially Node Running. I'm always open to new ideas and opportunities.
+And I like to help projects develop in the early stages for realizing all planned, as well as support the finished products of projects.</h3>
 
 - 🌱 I’m currently learning **New software languages.**
 
